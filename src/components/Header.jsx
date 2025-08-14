@@ -24,7 +24,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link to="/" className="text-2xl font-bold text-blue-600">
-              اللوحات الإلكترونية
+              SUPER LED
             </Link>
           </div>
 
